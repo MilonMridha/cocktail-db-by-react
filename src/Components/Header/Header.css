@@ -1,0 +1,18 @@
+
+.header-item a{
+    text-decoration: none;
+    color: white;
+    margin-right: 20px;
+    
+}
+.header-item a:hover{
+    color: orange;
+}
+.header-item{
+    padding-right: 100px;
+}
+.header-item{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
